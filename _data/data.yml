@@ -5,7 +5,7 @@
 sidebar:
   position: right # position of the sidebar : left or right
   about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
   # Profile information
   name: Jeonghyun Choi
@@ -15,7 +15,7 @@ sidebar:
   # Sidebar links
   email: choidh2013@postech.ac.kr
   phone: 010 5492 2483
-  timezone: South Korea/Pohang # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  timezone: csdl.postech.ac.kr # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website:  # Include the full website URL, including "http://" or "https://".
   linkedin: 
