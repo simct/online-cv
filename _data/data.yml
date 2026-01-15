@@ -48,6 +48,8 @@ sidebar:
     info:
     - item: Electrical Design Automation
       link:
+    - item: Integrated placement and routing
+      link:
 
 career-profile:
   title: Career Profile
