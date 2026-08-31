@@ -48,7 +48,7 @@ sidebar:
     info:
     - item: Electronic Design Automation
       link:
-    - item: Integrated placement and routing
+    - item: Security-aware EDA
       link:
 
 career-profile:
@@ -63,9 +63,37 @@ education:
     university: Pohang University of Science and Technology(POSTECH)
     time: 2025.09 - Present
     
-  - degree: B.S. in Electrical Engineering
+  - degree: B.S. in Electrical Engineering (Summa Cum Laude)
     university: Pohang University of Science and Technology(POSTECH)
     time: 2019.02 - 2025.08
+
+honors:
+  title: Honors & Awards
+  info:
+    - name: Best Paper Award, VLSI CAD Division
+      organization: The 33rd Korean Conference on Semiconductors (KCS)
+      time: 2026.02
+
+    - name: 2nd Place (Overall), MLCAD 2025 Contest
+      organization: ACM/IEEE International Symposium on Machine Learning for CAD
+      time: 2025.09
+
+    - name: Postechian Fellowship (Creativity Track)
+      organization: BK21 FOUR Graduate School Innovation Program, POSTECH
+      time: 2025
+
+    - name: Newcomb-Lim Capstone Design Award (Best Team)
+      organization: Dept. of Electrical Engineering, POSTECH
+      time: 2025
+
+    - name: Best Paper Award, Poster Session
+      organization: 7th Winter Annual Conference, Institute of Semiconductor Engineers (ISE)
+      time: 2025.01
+
+    - name: National Science & Engineering Scholarship
+      organization: Korea Student Aid Foundation (KOSAF)
+      time: 2021 - 2025
+  
 
 
 experiences:
